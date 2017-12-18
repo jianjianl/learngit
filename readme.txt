@@ -8,6 +8,10 @@ creating a new branch is qucick mmmdg
 create de
 
 create dev
+<<<<<<< HEAD
 
+=======
+hhhhhh:wq
+>>>>>>> 54fcdfa09bb9325acab231b8a153f94e4317684a
 
 
