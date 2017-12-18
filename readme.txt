@@ -8,6 +8,6 @@ creating a new branch is qucick mmmdg
 create de
 
 create dev
-hhhhhhhhh
+hhhhhh:wq
 
 
